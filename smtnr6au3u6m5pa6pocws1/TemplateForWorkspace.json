@@ -323,7 +323,7 @@
 					},
 					"SynapseWorkspaceName": {
 						"type": "string",
-						"defaultValue": "smtnr6au3u6m5pa6pocws1.sql.azuresynapse.net"
+						"defaultValue": "smtnr6au3u6m5pa6pocws1"
 					},
 					"SQLDedicatedPoolName": {
 						"type": "string",
